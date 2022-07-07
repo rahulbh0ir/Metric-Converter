@@ -1,0 +1,44 @@
+body {
+     margin: 50px;
+    text-align: center;
+    
+}
+#div1{
+    background-color: #cdb4db;
+    color: white;
+    padding: 20px 20px;
+   
+}
+#input{
+    text-align: center;
+    padding: 10px;
+    width: 100px;
+    height: 20px;
+    margin-bottom: 10px;
+}
+#divlen{
+    background-color: #ffd6ff;
+    padding: 10px;
+    margin: 20px;  
+}
+#divvol{
+    background-color: #ffd6ff;
+    padding: 10px;
+    margin: 20px;  
+}#divmass{
+    background-color: #ffd6ff;
+    padding: 10px;
+    margin: 20px;  
+}
+#len{
+    color: #820263;
+    padding: 20px;
+}
+#vol{
+     color: #820263;
+    padding: 20px;
+}
+#mass{
+    color: #820263;
+    padding: 20px;
+}
